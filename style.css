@@ -1,0 +1,53 @@
+html,
+body {
+  height: 100%;
+  background-color: #edf2f4;
+}
+
+h1 {
+  color: #2b2d42;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 20px;
+  margin-bottom: 20px;
+}
+
+strong {
+  color: #d90429;
+  font-weight: bold;
+  font-style: italic;
+}
+
+p {
+  color: #2b2d42;
+}
+
+.row {
+  padding-top: 20px;
+  min-height: 100%;
+}
+
+.card {
+  min-height: 100%;
+}
+
+.card .btn {
+  background-color: #ef233c;
+  color: white;
+  border: none;
+}
+
+footer img {
+  width: 100px;
+  height: 100px;
+}
+
+.footer-container {
+  padding: 20px;
+  width: 100%;
+}
+.footer-container p {
+  color: #2b2d42;
+  font-size: 14px;
+  font-weight: bold;
+}
